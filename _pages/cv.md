@@ -11,4 +11,4 @@ redirect_from:
 
 
 * Haoran He(何浩然)
-You can download my cv from here\[[pdf](https://github.com/tinnerhrhe/tinnerhrhe.github.io/files/CV_HaoranHe.pdf)\].(updated in March 2022)
+You can download my cv from here\[[pdf](https://github.com/tinnerhrhe/tinnerhrhe.github.io/blob/main/files/CV_HaoranHe.pdf)\].(updated in March 2022)
