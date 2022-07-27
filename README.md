@@ -1,2 +1,2 @@
-# haoran_he.github.io
+# tinnerhrhe.github.io
 Repository for Haoran He's personal academic website.
