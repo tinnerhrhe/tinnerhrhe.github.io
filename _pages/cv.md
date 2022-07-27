@@ -10,7 +10,5 @@ redirect_from:
 {% include base_path %}
 
 
-Education
-======
-* B.S. in Northestern University of China , 2018
-* Ph.D. candidate in Shanghai Jiao Tong University, 2018--now
+* Haoran He(何浩然)
+You can download my cv from here[pdf](https://github.com/tinnerhrhe/tinnerhrhe.github.io/files/CV_HaoranHe.pdf).(updated in March 2022)
