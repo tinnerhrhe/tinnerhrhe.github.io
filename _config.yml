@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Haoran He | SJTU"
+title                    : "Haoran He"
 title_separator          : "-"
 name                     : &name "Haoran He"
 description              : &description "Undergraduate Student"
