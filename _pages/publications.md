@@ -19,3 +19,11 @@ author_profile: true
 <em>preprint, under review</em>, 2023
 <br>
 <a href="https://arxiv.org/pdf/2305.18459.pdf">paper</a> / <a href="https://github.com/tinnerhrhe/MTDiff">code</a>
+
+
+<br> 
+<b>On the Value of Myopic Behavior in Policy Reuse</b> <br>
+Kang Xu, Chenjia Bai, Shuang Qiu, <b>Haoran He</b>, Bin Zhao, Zhen Wang, Wei Li, Xuelong Li. <br>
+<em>preprint, under review</em>, 2023
+<br>
+<a href="https://arxiv.org/pdf/2305.17623.pdf">paper</a>
