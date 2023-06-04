@@ -19,7 +19,7 @@ My goal is to develop an intelligent decision-making system that possesses optim
 * Scalability and sample efficiency in Reinforcement Learning.
 * Effective planning with Large Language Models (LLMs).
 
-Feel free to contact me with <u>email</u> ([bz-fore-hhr@sjtu.edu.cn] (bz-fore-hhr@sjtu.edu.cn)) or <u>wechat</u> (hhr_tinner). 
+Feel free to contact me with <u>email</u> (<a href="bz-fore-hhr@sjtu.edu.cn">bz-fore-hhr@sjtu.edu.cn</a>) or <u>wechat</u> (hhr_tinner). 
 
 # News
-3 papers have been published in arxiv!&#128293
+3 papers have been published in arxiv!&#128293;
