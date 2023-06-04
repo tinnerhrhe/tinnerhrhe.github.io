@@ -14,12 +14,12 @@ I am now pursuing bachelor Degree in the computer science department, Shanghai J
 2020, advised by [Prof. Weinan Zhang](http://wnzhang.net/).
 
 # Research Interests
-My goal is to develop an intelligent decision-making system that possesses optimality, generalizability, robustness and interpretability. To achieve this, I primarily focus on:hh 
+My goal is to develop an intelligent decision-making system that possesses optimality, generalizability, interpretability and robustness. To achieve this, I primarily focus on &#129300;:
 * Generalist Reinforcement Learning agent and its application in the real world.
 * Scalability and sample efficiency in Reinforcement Learning.
 * Effective planning with Large Language Models (LLMs).
 
-Feel free to contact me with <u>email</u> (<a href="bz-fore-hhr@sjtu.edu.cn">bz-fore-hhr@sjtu.edu.cn</a>) or <u>wechat</u> (hhr_tinner). 
+Feel free to contact me &#128522; with <u>email</u> (<a href="bz-fore-hhr@sjtu.edu.cn">bz-fore-hhr@sjtu.edu.cn</a>) or <u>wechat</u> (hhr_tinner).
 
 # News
 3 papers have been published in arxiv!&#128293;
