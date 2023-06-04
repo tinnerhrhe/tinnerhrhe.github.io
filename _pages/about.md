@@ -7,6 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
+<meta charset="utf-8">
 
 # Biography
 I am now pursuing bachelor Degree in the computer science department, Shanghai Jiao Tong University. I participated in [APEX Lab](https://apex.sjtu.edu.cn/) in May.
@@ -17,6 +18,7 @@ My goal is to develop an intelligent decision-making system that possesses optim
 * Generalist Reinforcement Learning agent and its application in the real world.
 * Scalability and sample efficiency in Reinforcement Learning.
 * Effective planning with Large Language Models (LLMs).
+
 Feel free to contact me with <u>email</u> ([bz-fore-hhr@sjtu.edu.cn] (bz-fore-hhr@sjtu.edu.cn)) or <u>wechat</u> (hhr_tinner). 
 
 # News
