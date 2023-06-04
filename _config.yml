@@ -86,7 +86,7 @@ author:
   location         : "Shanghai, China"
   employer         :
   pubmed           :  # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : #"https://scholar.google.com.hk/citations?hl=zh-CN&user=i0paeq4AAAAJ"
+  googlescholar    : https://scholar.google.com/citations?hl=zh-CN&user=Z33PHQ0AAAAJ
   email            : "bz-fore-hhr@sjtu.edu.cn"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : #"replacethistwitterhandle"
+  twitter          : https://twitter.com/tinner_He
   vine             :
   weibo            :
   xing             :
@@ -176,7 +176,7 @@ kramdown:
 # Collections
 collections:
   teaching:
-    output: true
+    output: false
     permalink: /:collection/:path/
   publications:
     output: true
@@ -185,7 +185,7 @@ collections:
     output: true
     permalink: /:collection/:path/
   talks:
-    output: true
+    output: false
     permalink: /:collection/:path/
 
 
