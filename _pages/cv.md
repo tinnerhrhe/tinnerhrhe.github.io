@@ -10,4 +10,4 @@ redirect_from:
 {% include base_path %}
 
 
-You can download my CV from here\[[pdf](http://tinnerhrhe.github.io/files/CV_HaoranHe.pdf)\].(updated in March 2022)
+There is my CV in the PDF format: [pdf](http://tinnerhrhe.github.io/files/CV-HaoranHe.pdf). (updated in Jun. 2023)
