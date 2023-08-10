@@ -10,7 +10,7 @@ redirect_from:
 <meta charset="utf-8">
 
 # Biography
-I am now pursuing bachelor degree in the computer science department, Shanghai Jiao Tong University. I participated in [APEX Lab](https://apex.sjtu.edu.cn/) in May.
+I received my Bachelor degree in the computer science department, Shanghai Jiao Tong University in June 2023. I participated in [APEX Lab](https://apex.sjtu.edu.cn/) in May.
 2020, advised by [Prof. Weinan Zhang](http://wnzhang.net/).
 
 # Research Interests
