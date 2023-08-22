@@ -21,5 +21,9 @@ My goal is to develop an intelligent decision-making system that possesses optim
 
  &#128522; Feel free to contact me with <u>email</u> (<a href="bz-fore-hhr@sjtu.edu.cn">bz-fore-hhr@sjtu.edu.cn</a>) or <u>wechat</u> (hhr_tinner).
 
-# News
-<strong>[Jun. 2023]</strong> 3 papers have been published in arxiv!&#128293;
+# &#128293; News
+<strong>[Aug. 2023]</strong> One paper about robust quadrupedal locomotion has been released.
+
+<strong>[Jul. 2023]</strong> &#127881; I received my Bachelor degree from Shanghai Jiao Tong University.
+
+<strong>[Jun. 2023]</strong> 3 papers have been published in Arxiv!
