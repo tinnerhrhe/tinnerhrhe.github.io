@@ -5,6 +5,14 @@ permalink: /publications/
 author_profile: true
 ---
 {% include base_path %}
+
+<br> 
+<b>Robust Quadrupedal Locomotion via Risk-Averse Policy Learning </b> <br> 
+Jiyuan Shi, Chenjia Bai, <b>Haoran He</b>, Lei Han, Dong Wang, Bin Zhao, Xiu Li, Xuelong Li. <br> 
+<em>preprint</em>, 2023
+<br>
+<a href="https://arxiv.org/pdf/2308.09405.pdf">paper</a> / <a href="https://risk-averse-locomotion.github.io/">webpage</a>
+
 <br> 
 <b>Privileged Knowledge Distillation for Sim-to-Real Policy Generalization </b> <br> 
 <b>Haoran He</b>, Chenjia Bai, Hang Lai, LingXiao Wang, Weinan Zhang. <br> 
