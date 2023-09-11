@@ -22,6 +22,8 @@ My goal is to develop an intelligent decision-making system that possesses optim
  &#128522; Feel free to contact me with <u>email</u> (<a href="bz-fore-hhr@sjtu.edu.cn">bz-fore-hhr@sjtu.edu.cn</a>) or <u>wechat</u> (hhr_tinner).
 
 # &#128293; News
+<strong>[Sep. 2023]</strong> I gave a [talk](https://www.bilibili.com/video/BV1hu4y1y7sC/?spm_id_from=333.999.0.0) at RLChina.
+
 <strong>[Aug. 2023]</strong> One paper about robust quadrupedal locomotion has been released.
 
 <strong>[Jul. 2023]</strong> &#127881; I received my Bachelor degree from Shanghai Jiao Tong University.
