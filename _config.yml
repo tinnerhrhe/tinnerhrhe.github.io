@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Haoran He"
 title_separator          : "-"
 name                     : &name "Haoran He"
-description              : &description "Undergraduate Student"
+description              : &description "Incoming Ph.D. student at HKUST"
 url                      : https://tinnerhrhe.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "tinnerhrhe.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Haoran He"
   avatar           : "haoranhe.jpg"
-  bio              : "Undergraduate student in computer science department, Shanghai Jiao Tong University"
+  bio              : "Incoming Ph.D. student at Hong Kong University of Science and Technology"
   location         : "Shanghai, China"
   employer         :
   pubmed           :  # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
