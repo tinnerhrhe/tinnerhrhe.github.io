@@ -10,8 +10,7 @@ redirect_from:
 <meta charset="utf-8">
 
 # Biography
-I received my Bachelor degree in the computer science department, Shanghai Jiao Tong University in June 2023. I participated in [APEX Lab](https://apex.sjtu.edu.cn/) in May.
-2020, advised by [Prof. Weinan Zhang](http://wnzhang.net/).
+Hi &#129303;! I am an incoming Ph.D. student at Hong Kong University of Science and Technology. I currently work closely with [Dr. Chenjia Bai](https://baichenjia.github.io/) as an intern at Shanghai AI Lab. Previously, I received my Bachelor degree in computer science at Shanghai Jiao Tong University in June 2023. During my undergraduate, I was fortunate to do research with some talented people in [APEX Lab](https://apex.sjtu.edu.cn/), advised by [Prof. Weinan Zhang](http://wnzhang.net/).
 
 # Research Interests
 My goal is to develop an intelligent decision-making system that possesses optimality, generalizability, interpretability and robustness. To achieve this, I primarily focus on &#129300;:
