@@ -22,6 +22,13 @@ Jiyuan Shi, Chenjia Bai, <b>Haoran He</b>, Lei Han, Dong Wang, Bin Zhao, Xiu Li,
 <a href="https://arxiv.org/pdf/2308.09405.pdf">paper</a> / <a href="https://risk-averse-locomotion.github.io/">webpage</a>
 
 <br> 
+<b>Large-Scale Actionless Video Pre-Training via Discrete Diffusion for Efficient Policy Learning </b> <br> 
+<b>Haoran He</b>, Chenjia Bai, Ling Pan, Weinan Zhang, Bin Zhao, Xuelong Li. <br> 
+<em>preprint, under review</em>, 2024
+<br>
+<a href="https://arxiv.org/abs/2402.14407">paper</a> / <a href="https://video-diff.github.io/">webpage</a>
+
+<br> 
 <b>Privileged Knowledge Distillation for Sim-to-Real Policy Generalization </b> <br> 
 <b>Haoran He</b>, Chenjia Bai, Hang Lai, LingXiao Wang, Weinan Zhang. <br> 
 <em>preprint, under review</em>, 2023
