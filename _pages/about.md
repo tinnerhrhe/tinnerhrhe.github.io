@@ -30,3 +30,6 @@ My goal is to develop an intelligent decision-making system that possesses optim
 <strong>[Sep. 2023]</strong> I gave a [talk](https://www.bilibili.com/video/BV1hu4y1y7sC/?spm_id_from=333.999.0.0) at RLChina.
 
 <strong>[Jul. 2023]</strong> &#127881; I received my Bachelor degree from Shanghai Jiao Tong University.
+
+# 📖 Service
+- Reviewer: TPAMI, ICML 2024
