@@ -20,7 +20,7 @@ My goal is to develop an intelligent decision-making system that possesses optim
 * Scalability and sample efficiency in Reinforcement Learning.
 * Effective planning with Large Language Models (LLMs).
 
- &#128522; Feel free to contact me with <u>email</u> (<a href="bz-fore-hhr@sjtu.edu.cn">bz-fore-hhr@sjtu.edu.cn</a>) or <u>wechat</u> (hhr_tinner).
+ &#128522; Feel free to contact me with <u>email</u> (<a href="haoran.he@connect.ust.hk">haoran.he@connect.ust.hk</a>) or <u>wechat</u> (hhr_tinner).
 
 # &#128293; News
 <strong>[Jan. 2024]</strong> One paper has been accepted by ICRA 2024!
