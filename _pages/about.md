@@ -10,7 +10,7 @@ redirect_from:
 <meta charset="utf-8">
 
 # Biography
-Hi &#129303;! I am a first-year Ph.D. student at Hong Kong University of Science and Technology, advised by [Prof. Ling Pan](https://ling-pan.github.io/) in the Department of Electronic and Computer Engineering. 
+Hi &#129303;! I am a first-year Ph.D. student at Hong Kong University of Science and Technology, advised by [Prof. Ling Pan](https://ling-pan.github.io/). 
 
 I received my Bachelor's degree in computer science at Shanghai Jiao Tong University in June 2023, advised by [Prof. Weinan Zhang](http://wnzhang.net/) as a member of [APEX Lab](https://apex.sjtu.edu.cn/). Previously, I work closely with [Dr. Chenjia Bai](https://baichenjia.github.io/) as an intern at Shanghai AI Lab.
 
