@@ -35,11 +35,17 @@ Jiyuan Shi, Chenjia Bai, <b>Haoran He</b>, Lei Han, Dong Wang, Bin Zhao, Xiu Li,
 <br>
 <a href="https://arxiv.org/pdf/2305.18464.pdf">paper</a> / <a href="https://github.com/tinnerhrhe/HIB_Policy">code</a>
 
+<br> 
+<b>Regularized Conditional Diffusion Model for Multi-Task Preference Alignment</b> <br>
+Xudong Yu, Chenjia Bai, <b>Haoran He</b>, Changhong Wang, Xuelong Li. <br>
+<em>preprint, under review</em>, 2023
+<br>
+<a href="https://arxiv.org/abs/2404.04920">paper</a>
 
 <br> 
 <b>Diffusion Models for Reinforcement Learning: A Survey</b> <br> 
 Zhengbang Zhu, Hanye Zhao, <b>Haoran He</b>, Yichao Zhong, Shenyu Zhang, Yong Yu, Weinan Zhang. <br>
-<em>preprint</em>, 2023
+<em>preprint, under review</em>, 2023
 <br>
 <a href="https://arxiv.org/abs/2311.01223">paper</a> / <a href="https://github.com/apexrl/diff4rlsurvey">project</a>
 
