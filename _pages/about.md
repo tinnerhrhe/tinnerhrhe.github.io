@@ -23,6 +23,8 @@ My goal is to develop an intelligent decision-making system that possesses optim
  &#128522; Feel free to contact me with <u>email</u> (<a href="haoran.he@connect.ust.hk">haoran.he@connect.ust.hk</a>) or <u>wechat</u> (hhr_tinner).
 
 # &#128293; News
+<strong>[May. 2024]</strong> One paper has been accepted by ICML 2024!
+
 <strong>[Jan. 2024]</strong> One paper has been accepted by ICRA 2024!
 
 <strong>[Sep. 2023]</strong> &#127881; Our paper ([*MTDiff*](https://arxiv.org/abs/2305.18459)) has been accepted by NeurIPS 2023.
@@ -32,4 +34,4 @@ My goal is to develop an intelligent decision-making system that possesses optim
 <strong>[Jul. 2023]</strong> &#127881; I received my Bachelor degree from Shanghai Jiao Tong University.
 
 # 📖 Service
-- Reviewer: TPAMI, ICML 2024
+- Reviewer: TPAMI, ICML 2024, IROS 2024
