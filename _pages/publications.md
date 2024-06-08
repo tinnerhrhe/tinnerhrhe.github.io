@@ -7,12 +7,11 @@ author_profile: true
 {% include base_path %}
 <div class='paper-box'><div class='paper-box-image'><div><img src='../images/models.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-<br> 
-<b>Diffusion Model is an Effective Planner and Data Synthesizer for Multi-Task Reinforcement Learning</b> <br> 
-<b>Haoran He</b>, Chenjia Bai, Kang Xu, Zhuoran Yang, Weinan Zhang, Dong Wang, Bin Zhao, Xuelong Li. <br>
-<em>NeurIPS</em>, 2023 
-<br>
-<a href="https://arxiv.org/pdf/2305.18459.pdf">paper</a> / <a href="https://github.com/tinnerhrhe/MTDiff">code</a>
+<strong><font color="#374798">Diffusion Model is an Effective Planner and Data Synthesizer for Multi-Task Reinforcement Learning</font></strong> 
+  
+<b>Haoran He</b>, Chenjia Bai, Kang Xu, Zhuoran Yang, Weinan Zhang, Dong Wang, Bin Zhao, Xuelong Li.
+
+<em>NeurIPS</em>, 2023  <b>|</b>  <a href="https://arxiv.org/pdf/2305.18459.pdf">paper</a> / <a href="https://github.com/tinnerhrhe/MTDiff">code</a>
 </div>
 </div>
 
