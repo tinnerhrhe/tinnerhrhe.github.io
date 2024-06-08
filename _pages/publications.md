@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 {% include base_path %}
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/models.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='../images/models.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 <br> 
 <b>Diffusion Model is an Effective Planner and Data Synthesizer for Multi-Task Reinforcement Learning</b> <br> 
