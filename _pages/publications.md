@@ -31,7 +31,7 @@ Jiyuan Shi, Chenjia Bai, <b>Haoran He</b>, Lei Han, Dong Wang, Bin Zhao, Xiu Li,
   
 Junjie Zhang, Chenjia Bai, <b>Haoran He</b>, Wenke Xia, Zhigang Wang, Bin Zhao, Xiu Li, Xuelong Li.
 
-<em>ICML</em>, 2024  <b>|</b>  <a href="https://arxiv.org/pdf/2405.19586">PDF</a>
+<em>ICML</em>, 2024  <b>|</b>  <a href="https://arxiv.org/pdf/2405.19586">PDF</a> / <a href="https://www.jiqizhixin.com/articles/2024-05-24-2">media</a>
 </div>
 </div>
 
@@ -41,7 +41,7 @@ Junjie Zhang, Chenjia Bai, <b>Haoran He</b>, Wenke Xia, Zhigang Wang, Bin Zhao, 
   
 <b>Haoran He</b>, Chenjia Bai, Ling Pan, Weinan Zhang, Bin Zhao, Xuelong Li.
 
-<em>preprint, under review</em>, 2024  <b>|</b> <a href="https://arxiv.org/pdf/2402.14407">PDF</a> / <a href="https://video-diff.github.io/">webpage</a>
+<em>preprint, under review</em>, 2024  <b>|</b> <a href="https://arxiv.org/pdf/2402.14407">PDF</a> / <a href="https://video-diff.github.io/">webpage</a> / <a href="https://www.thepaper.cn/newsDetail_forward_26690651">media</a>
 </div>
 </div>
 
@@ -90,7 +90,7 @@ Xudong Yu, Chenjia Bai, <b>Haoran He</b>, Changhong Wang, Xuelong Li.
   
 Zhengbang Zhu, Hanye Zhao, <b>Haoran He</b>, Yichao Zhong, Shenyu Zhang, Yong Yu, Weinan Zhang.
 
-<em>preprint, under review</em>, 2023 <b>|</b> <a href="https://arxiv.org/pdf/2311.01223">PDF</a> / <a href="https://github.com/apexrl/diff4rlsurvey">project</a>
+<em>preprint, under review</em>, 2023 <b>|</b> <a href="https://arxiv.org/pdf/2311.01223">PDF</a> / <a href="https://github.com/apexrl/diff4rlsurvey">project</a> / <a href="https://www.jiqizhixin.com/articles/2024-03-11-3">media</a>
 </div>
 </div>
 
