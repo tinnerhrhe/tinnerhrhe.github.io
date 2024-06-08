@@ -14,7 +14,7 @@ Hi &#129303;! I am a first-year Ph.D. student at Hong Kong University of Science
 
 I received my Bachelor's degree in computer science at Shanghai Jiao Tong University in June 2023, advised by [Prof. Weinan Zhang](http://wnzhang.net/) as a member of [APEX Lab](https://apex.sjtu.edu.cn/). Previously, I worked closely with [Dr. Chenjia Bai](https://baichenjia.github.io/) as an intern at Shanghai AI Lab.
 
-<a href='../files/CV-HaoranHe.pdf'><img src="https://img.shields.io/badge/-Haoran's CV-299DE7?logo=gitbook&logoColor=white"></a>
+<a href='../files/CV_HaoranHe.pdf'><img src="https://img.shields.io/badge/-Haoran's CV-299DE7?logo=gitbook&logoColor=white"></a>
 
 # Research Interests
 My goal is to develop an intelligent decision-making system that possesses optimality, generalizability, interpretability and robustness. To achieve this, I primarily focus on &#129300;:
