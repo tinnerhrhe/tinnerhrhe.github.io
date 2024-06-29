@@ -53,6 +53,7 @@
         justify-content: center;
         display: flex;
         width: 100%;
+        valign:"top";
         order: 2;
         img {
             max-width: 100px;
@@ -63,6 +64,7 @@
     
     .paper-box-text{
         max-width: 100%;
+        valign:"top"
         order: 1;
     }
     
@@ -70,14 +72,14 @@
         .paper-box-image{
             justify-content: left;
             min-width: 100px;
-            max-width: 20%;
+            max-width: 40%;
             order: 1;
         }
         
         .paper-box-text{
             justify-content: left;
             padding-left: 2em;
-            max-width: 80%;
+            max-width: 60%;
             order: 2;
         }
 
