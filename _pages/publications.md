@@ -6,11 +6,12 @@ author_profile: true
 ---
 {% include base_path %}
 
-<tr>
-  <td style="padding:20px;width:30%;vertical-align:middle">
-     <img src="../images/models.jpg" alt="PontTuset" width="300" style="border-style: none">
+
+<div>
+  <td padding=20px width="30%" valign="top" align="center"">
+     <img src="../images/models.jpg" alt="PontTuset" width="200px" style="border-style: none">
   </td>
-  <td width="70%" valign="middle">
+  <td width="70%" valign="top">
         <a href="https://arxiv.org/abs/2305.18459" id="MultiMon">
         <papertittle> Diffusion Model is an Effective Planner and Data Synthesizer for Multi-Task Reinforcement Learning </papertittle>
         </a>
@@ -22,7 +23,7 @@ author_profile: true
         <a href="https://arxiv.org/pdf/2305.18459">pdf</a> | <a href="https://github.com/tinnerhrhe/MTDiff">code</a>
         </p>
   </td>
-</tr>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><img src='../images/robust_quad.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
