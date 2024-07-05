@@ -8,7 +8,7 @@ author_profile: true
 
 <tr>
   <td style="padding:20px;width:25%;vertical-align:middle">
-     <img src="../images/models.jpg" alt="PontTuset" width="160" style="border-style: none">
+     <img src="../images/models.jpg" alt="PontTuset" width="200" style="border-style: none">
   </td>
   <td width="75%" valign="middle">
         <a href="https://arxiv.org/abs/2305.18459" id="MultiMon">
