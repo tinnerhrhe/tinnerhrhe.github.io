@@ -1,19 +1,24 @@
 ---
 layout: archive
-title: "Publications / Preprints"
+title: "Publications & Preprints"
 permalink: /publications/
 author_profile: true
 ---
 {% include base_path %}
-<div class='paper-box'><div class='paper-box-image'><div><img src='../images/models.jpg' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-<strong><a href="https://arxiv.org/abs/2305.18459">Diffusion Model is an Effective Planner and Data Synthesizer for Multi-Task Reinforcement Learning</a></strong>
-  
+
+<tr>
+  <td style="padding:20px;width:25%;vertical-align:middle">
+     <img src="../images/models.jpg" alt="PontTuset" width="160" style="border-style: none">
+  </td>
+  <td width="75%" valign="middle">
+        <a href="="https://arxiv.org/abs/2305.18459" id="MultiMon">
+        <strong> Diffusion Model is an Effective Planner and Data Synthesizer for Multi-Task Reinforcement Learning </strong></a>
+                
 <b>Haoran He</b>, Chenjia Bai, Kang Xu, Zhuoran Yang, Weinan Zhang, Dong Wang, Bin Zhao, Xuelong Li.
 
 <em>NeurIPS</em>, 2023  <b>|</b>  <a href="https://arxiv.org/pdf/2305.18459">PDF</a> / <a href="https://github.com/tinnerhrhe/MTDiff">code</a>
-</div>
-</div>
+</td>
+</tr>
 
 <div class='paper-box'><div class='paper-box-image'><div><img src='../images/robust_quad.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
