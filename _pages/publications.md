@@ -8,16 +8,15 @@ author_profile: true
 
 
 <div>
-  <td padding=20px width="30%" valign="top" align="center"">
+  <td padding=20px width="30%" valign="top" align="center">
      <img src="../images/models.jpg" alt="PontTuset" width="200px" style="border-style: none">
   </td>
   <td width="70%" valign="top">
-        <a href="https://arxiv.org/abs/2305.18459" id="MultiMon">
+        <a href="https://arxiv.org/abs/2305.18459">
         <papertittle> Diffusion Model is an Effective Planner and Data Synthesizer for Multi-Task Reinforcement Learning </papertittle>
         </a>
-        <br>
-        <b>Haoran He</b>, Chenjia Bai, Kang Xu, Zhuoran Yang, Weinan Zhang, Dong Wang, Bin Zhao, Xuelong Li.
-        </br>
+        <p>
+        <b>Haoran He</b>, Chenjia Bai, Kang Xu, Zhuoran Yang, Weinan Zhang, Dong Wang, Bin Zhao, Xuelong Li.</p>
         <em>NeurIPS</em>, 2023  
         <p>
         <a href="https://arxiv.org/pdf/2305.18459">pdf</a> | <a href="https://github.com/tinnerhrhe/MTDiff">code</a>
