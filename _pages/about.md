@@ -19,7 +19,7 @@ I received my Bachelor's degree in computer science at Shanghai Jiao Tong Univer
 # Research Interests
 My goal is to develop an intelligent decision-making system that possesses optimality, generalizability, interpretability and robustness. To achieve this, I primarily focus on &#129300;:
 * Generalist Reinforcement Learning and its applications in the real world.
-* Generative Flow Network (An advanced sampling algorithm for reward matching) and its further applications.
+* Generative models (e.g., flow and diffusion models) and their applications.
 * Large foundation models for reasoning and decision-making.
 
  &#128522; Feel free to contact me with <u>email</u> (<a href="haoran.he@connect.ust.hk">haoran.he@connect.ust.hk</a>) or <u>wechat</u> (hhr_tinner).
