@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Haoran He"
-  avatar           : "haoranhe.jpg"
+  avatar           : "haoranhe_1.jpg"
   bio              : "Ph.D. student at Hong Kong University of Science and Technology"
   location         : "Hong Kong"
   employer         :
@@ -175,18 +175,18 @@ kramdown:
 
 # Collections
 collections:
-  teaching:
-    output: false
-    permalink: /:collection/:path/
+  # teaching:
+  #   output: false
+  #   permalink: /:collection/:path/
   publications:
     output: true
     permalink: /:collection/:path/
-  portfolio:
-    output: true
-    permalink: /:collection/:path/
-  talks:
-    output: false
-    permalink: /:collection/:path/
+  # portfolio:
+  #   output: true
+  #   permalink: /:collection/:path/
+  # talks:
+  #   output: false
+  #   permalink: /:collection/:path/
 
 
 # Defaults
