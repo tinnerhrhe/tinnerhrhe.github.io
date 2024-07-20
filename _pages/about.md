@@ -22,7 +22,7 @@ My goal is to develop an intelligent decision-making system that possesses optim
 * Generative models (e.g., flow and diffusion models) and their applications.
 * Large foundation models for reasoning and decision-making.
 
- &#128522; Feel free to contact me with <u>email</u> (<a href="haoran.he@connect.ust.hk">haoran.he@connect.ust.hk</a>) or <u>wechat</u> (hhr_tinner).
+ &#128522; I am open to any collaboration. Feel free to contact me with <u>email</u> (<a href="haoran.he@connect.ust.hk">haoran.he@connect.ust.hk</a>) or <u>wechat</u> (hhr_tinner).
 
 # &#128293; News
 <strong>[May. 2024]</strong> One paper has been accepted by ICML 2024!
