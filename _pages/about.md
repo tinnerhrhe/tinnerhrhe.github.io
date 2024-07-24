@@ -38,5 +38,5 @@ My goal is to develop an intelligent decision-making system that possesses optim
 <strong>[Jul. 2023]</strong> &#127881; I received my Bachelor's degree from Shanghai Jiao Tong University.
 
 # 📖 Service
-- Conference reviewer: ICML 2024, IROS 2024, NeurIPS 2024
+- Conference reviewer: ICML 2024, IROS 2024, NeurIPS 2024, AAAI 2025
 - Journal reviewer: TPAMI
